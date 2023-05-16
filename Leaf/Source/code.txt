@@ -1,0 +1,7 @@
+'hello world'
+
+'instructions on how to compile this project:'
+'cd into Leaf/Source'
+'run this command: javac Main.java ScriptExecutor.java'
+'now cd back to the root directory of the project'
+'run this commmand: java Leaf.Source.Main'
